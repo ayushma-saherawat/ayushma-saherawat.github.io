@@ -698,28 +698,3 @@
         </script>
     </body>
     </html>
-
-    <!--
-    README for GitHub Pages
-
-    1.  **Create a New Repository:** Go to your GitHub account and create a new public repository. Name it `your-username.github.io` (for a personal site) or `repo-name` (for a project site).
-    2.  **Add `index.html`:** In the new repository, create a new file named `index.html`. Copy and paste the entire code block above into this file.
-    3.  **Commit and Push:** Commit the changes directly to the `main` branch.
-    4.  **Enable GitHub Pages:** Go to the repository's "Settings" tab, then click on "Pages" in the left sidebar. Under "Source," select the `main` branch and `/ (root)` folder, then click "Save".
-    5.  **Verify & Customize:** Your site should be live at `https://your-username.github.io/` or `https://your-username.github.io/repo-name/` within a few minutes. You can now edit the code to replace placeholder content.
-
-    ---
-
-    **Content Edit Block**
-
-    Please replace the following placeholder items with your real information:
-
-    -   **Email:** The email link is now updated.
-    -   **Social Links:** The LinkedIn and Instagram links are now updated.
-    -   **Contact Form:** The form action is currently a dummy. You will need to set up a backend service (e.g., Formspree) to handle submissions.
-
-    **Future sections to consider:**
-    -   A dedicated blog or newsletter.
-    -   A booking or session inquiry system.
-    -   An expanded "Media" section with video embeds or press clippings.
-    -->
